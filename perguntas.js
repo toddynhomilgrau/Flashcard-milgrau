@@ -1,12 +1,12 @@
 criaCartao(
     'Champions Historica',
     'Ano do Gol iconico de Zidane?',
-    'O Python é uma linguagem de programação'
+    'Ocorreu em 2002, na final contra o Bayer Leverkusen'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
+    'Champions Historica',
+    '?',
     'A capital da França é Paris'
 )
 
